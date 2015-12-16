@@ -1,6 +1,4 @@
-# [Archive] AnyWall
-
-**Note:** *This repository is not under active development.*
+# AnyWall
 
 A fun geolocation app built with Parse.
 
